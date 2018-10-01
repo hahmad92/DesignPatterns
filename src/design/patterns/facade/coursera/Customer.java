@@ -1,4 +1,4 @@
-package facade.coursera;
+package design.patterns.facade.coursera;
 
 import java.math.BigDecimal;
 
