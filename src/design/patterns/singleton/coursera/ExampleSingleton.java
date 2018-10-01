@@ -1,4 +1,4 @@
-package design.pattrens.singleton.coursera;
+package design.patterns.singleton.coursera;
 
 public class ExampleSingleton { // lazy construction
 	// the class variable is null if no instance is
