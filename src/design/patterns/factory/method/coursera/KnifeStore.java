@@ -9,5 +9,6 @@ public abstract class KnifeStore {
 		knife.package1();
 		return knife;
 	}
+
 	abstract Knife createKnife(String type);
 }

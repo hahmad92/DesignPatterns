@@ -1,6 +1,8 @@
 package design.patterns.decorator.headfirst.io;
 
-import java.io.*;
+import java.io.FilterInputStream;
+import java.io.IOException;
+import java.io.InputStream;
 
 public class LowerCaseInputStream extends FilterInputStream {
 
