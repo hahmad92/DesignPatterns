@@ -1,12 +1,11 @@
-package design.patterns.decorator.starbuzz;
+package design.patterns.decorator.headfirst.starbuzz;
 
 public class Decaf extends Beverage {
 	public Decaf() {
 		description = "Decaf Coffee";
 	}
- 
+
 	public double cost() {
 		return 1.05;
 	}
 }
-

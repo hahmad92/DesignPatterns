@@ -1,4 +1,4 @@
-package design.patterns.decorator.starbuzz;
+package design.patterns.decorator.headfirst.starbuzz;
 
 public class Milk extends CondimentDecorator {
 	Beverage beverage;
